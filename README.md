@@ -1,4 +1,0 @@
-simpco
-======
-
-for openshift demo
